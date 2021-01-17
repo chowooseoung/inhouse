@@ -1,12 +1,9 @@
-[submodule "cwsmt"]
-	path = DCC/maya/int/modules/rigging/cwsmt
-	url = git@github.com:chowooseoung/cwsmt.git
+[submodule "DCC"]
+	path = DCC
+	url = git@github.com:chowooseoung/DCC.git
 [submodule "nolava_config"]
 	path = nolava_config
 	url = git@github.com:chowooseoung/nolava_config.git
 [submodule "rez-packages"]
 	path = rez-packages
 	url = git@github.com:chowooseoung/rez-packages.git
-[submodule "cmt"]
-	path = DCC/maya/ext/modules/rigging/cmt
-	url = git@github.com:chadmv/cmt.git

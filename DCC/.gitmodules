@@ -1,0 +1,6 @@
+[submodule "cwsmt"]
+	path = maya/int/modules/rigging/cwsmt
+	url = git@github.com:chowooseoung/cwsmt.git
+[submodule "cmt"]
+	path = maya/ext/modules/rigging/cmt
+	url = git@github.com:chadmv/cmt.git

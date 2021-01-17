@@ -1,6 +1,3 @@
-[submodule "DCC"]
-	path = DCC
-	url = git@github.com:chowooseoung/DCC.git
 [submodule "nolava_config"]
 	path = nolava_config
 	url = git@github.com:chowooseoung/nolava_config.git
